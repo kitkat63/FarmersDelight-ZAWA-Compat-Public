@@ -1,0 +1,4 @@
+Placeholder for Potent Skin status effect icon texture.
+Expected future texture path:
+assets/fdzawacompat/textures/mob_effect/potent_skin.png
+This placeholder path is referenced in code at PotentSkinMobEffect.EFFECT_TEXTURE_PLACEHOLDER_FILE.

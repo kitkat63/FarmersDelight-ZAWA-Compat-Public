@@ -1,0 +1,6 @@
+Placeholder for Potent Skin potion bottle art.
+Future texture candidates:
+- assets/fdzawacompat/textures/item/potent_skin_potion.png
+- assets/fdzawacompat/textures/item/potent_skin_potion_overlay.png
+Reference constant: ModPotions.POTION_BOTTLE_TEXTURE_PLACEHOLDER_FILE
+Note: brewing recipes are registered in code and use the vanilla Brewing Stand system.
