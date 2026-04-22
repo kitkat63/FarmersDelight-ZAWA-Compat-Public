@@ -1,0 +1,5 @@
+Potent Skin effect behavior placeholder:
+- Applied by potion recipes using sea_bunny_head or sea_bunny_butt plus awkward potion.
+- Duration: 1:00 base.
+- While active, attackers that damage the player receive Poison.
+- This file is referenced in code at PotentSkinMobEffect.EFFECT_INFO_FILE.
