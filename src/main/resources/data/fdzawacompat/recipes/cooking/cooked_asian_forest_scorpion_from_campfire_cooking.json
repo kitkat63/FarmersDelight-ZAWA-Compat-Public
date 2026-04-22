@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:asian_forest_scorpion"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:asian_forest_scorpion"
+  },
+  "result": "fdzawacompat:cooked_asian_forest_scorpion",
+  "experience": 0.35,
+  "cookingtime": 300
+}

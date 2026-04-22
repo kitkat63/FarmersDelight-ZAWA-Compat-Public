@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:corydoras"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:corydoras"
+  },
+  "result": "fdzawacompat:cooked_corydoras",
+  "experience": 0.35,
+  "cookingtime": 600
+}

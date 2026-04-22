@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:clownfish"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:clownfish"
+  },
+  "result": "fdzawacompat:cooked_clownfish",
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:gramma"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:gramma"
+  },
+  "result": "fdzawacompat:cooked_gramma",
+  "experience": 0.35,
+  "cookingtime": 200
+}

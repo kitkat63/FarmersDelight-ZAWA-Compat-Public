@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "fdzawacompat:ingredients/water_no_bucket"
+    },
+    {
+      "item": "biologicalwonders:tulip_snail"
+    },
+    {
+      "item": "biologicalwonders:tulip_snail"
+    },
+    {
+      "item": "biologicalwonders:tulip_snail"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:escargot",
+    "count": 1
+  },
+  "cookingtime": 220
+}

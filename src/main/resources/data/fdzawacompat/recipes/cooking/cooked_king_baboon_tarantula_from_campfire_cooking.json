@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:king_baboon_tarantula"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:king_baboon_tarantula"
+  },
+  "result": "fdzawacompat:cooked_king_baboon_tarantula",
+  "experience": 0.35,
+  "cookingtime": 300
+}

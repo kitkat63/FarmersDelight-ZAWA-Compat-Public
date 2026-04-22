@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "fdzawacompat:raw_red_beans"
+    },
+    {
+      "item": "fdzawacompat:raw_red_beans"
+    },
+    {
+      "item": "fdzawacompat:raw_red_beans"
+    },
+    {
+      "item": "fdzawacompat:raw_red_beans"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/water_no_bucket"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:refried_beans",
+    "count": 2
+  },
+  "cookingtime": 350
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "biologicalwonders:squirrelfish"
+    }
+  ],
+  "ingredient": {
+    "item": "biologicalwonders:squirrelfish"
+  },
+  "result": "fdzawacompat:cooked_squirrelfish",
+  "experience": 0.35,
+  "cookingtime": 600
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:betta"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:betta"
+  },
+  "result": "fdzawacompat:cooked_betta",
+  "experience": 0.35,
+  "cookingtime": 200
+}

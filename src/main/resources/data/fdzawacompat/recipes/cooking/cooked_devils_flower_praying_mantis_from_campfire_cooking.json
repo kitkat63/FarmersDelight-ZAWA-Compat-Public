@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:devils_flower_praying_mantis"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:devils_flower_praying_mantis"
+  },
+  "result": "fdzawacompat:cooked_devils_flower_praying_mantis",
+  "experience": 0.35,
+  "cookingtime": 600
+}

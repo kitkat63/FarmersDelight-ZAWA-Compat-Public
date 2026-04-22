@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "fdzawacompat:raw_red_beans"
+      "count": 4
+    },
+    {
+      "tag": "fdzawacompat:ingredients/water_no_bucket"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:boiled_red_beans",
+    "count": 4
+  },
+  "cookingtime": 300
+}

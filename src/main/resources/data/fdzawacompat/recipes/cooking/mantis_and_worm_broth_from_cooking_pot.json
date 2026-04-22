@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "fdzawacompat:ingredients/earthworm"
+    },
+    {
+      "tag": "fdzawacompat:cooked_praying_mantises"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/carrot"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/water_no_bucket"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:mantis_and_worm_broth",
+    "count": 1
+  },
+  "cookingtime": 220
+}

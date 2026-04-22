@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "biologicalwonders:triggerfish"
+    }
+  ],
+  "ingredient": {
+    "item": "biologicalwonders:triggerfish"
+  },
+  "result": "fdzawacompat:cooked_triggerfish",
+  "experience": 0.35,
+  "cookingtime": 600
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:western_desert_tarantula"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:western_desert_tarantula"
+  },
+  "result": "fdzawacompat:cooked_western_desert_tarantula",
+  "experience": 0.35,
+  "cookingtime": 300
+}

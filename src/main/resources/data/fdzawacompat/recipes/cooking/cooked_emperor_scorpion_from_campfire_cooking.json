@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:emperor_scorpion"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:emperor_scorpion"
+  },
+  "result": "fdzawacompat:cooked_emperor_scorpion",
+  "experience": 0.35,
+  "cookingtime": 300
+}

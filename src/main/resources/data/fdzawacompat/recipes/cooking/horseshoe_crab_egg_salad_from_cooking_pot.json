@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "fdzawacompat:ingredients/cabbage_or_leaf"
+    },
+    {
+      "item": "biologicalwonders:horseshoe_crab"
+    },
+    {
+      "item": "fdzawacompat:horseshoe_crab_roe"
+    },
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:horseshoe_crab_egg_salad",
+    "count": 1
+  },
+  "cookingtime": 220
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "biologicalwonders:spotted_drum"
+    }
+  ],
+  "ingredient": {
+    "item": "biologicalwonders:spotted_drum"
+  },
+  "result": "fdzawacompat:cooked_spotted_drum",
+  "experience": 0.35,
+  "cookingtime": 600
+}

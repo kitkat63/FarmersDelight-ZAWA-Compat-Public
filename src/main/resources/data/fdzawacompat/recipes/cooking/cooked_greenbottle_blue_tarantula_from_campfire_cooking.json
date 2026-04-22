@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:greenbottle_blue_tarantula"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:greenbottle_blue_tarantula"
+  },
+  "result": "fdzawacompat:cooked_greenbottle_blue_tarantula",
+  "experience": 0.35,
+  "cookingtime": 300
+}

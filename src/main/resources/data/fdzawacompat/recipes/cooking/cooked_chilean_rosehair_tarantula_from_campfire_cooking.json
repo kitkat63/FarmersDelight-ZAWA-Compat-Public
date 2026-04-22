@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:chilean_rosehair_tarantula"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:chilean_rosehair_tarantula"
+  },
+  "result": "fdzawacompat:cooked_chilean_rosehair_tarantula",
+  "experience": 0.35,
+  "cookingtime": 300
+}

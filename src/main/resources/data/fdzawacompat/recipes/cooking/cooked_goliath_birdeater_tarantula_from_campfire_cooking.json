@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:goliath_birdeater_tarantula"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:goliath_birdeater_tarantula"
+  },
+  "result": "fdzawacompat:cooked_goliath_birdeater_tarantula",
+  "experience": 0.35,
+  "cookingtime": 300
+}

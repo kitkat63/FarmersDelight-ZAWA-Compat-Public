@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:antilles_pinktoe_tarantula"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:antilles_pinktoe_tarantula"
+  },
+  "result": "fdzawacompat:cooked_antilles_pinktoe_tarantula",
+  "experience": 0.35,
+  "cookingtime": 300
+}

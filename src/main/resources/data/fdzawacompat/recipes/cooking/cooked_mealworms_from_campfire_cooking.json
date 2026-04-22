@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:mealworms"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:mealworms"
+  },
+  "result": "fdzawacompat:cooked_mealworms",
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "group": "fdzawacompat:tarantula_chili",
+  "ingredients": [
+    {
+      "tag": "fdzawacompat:cooked_tarantulas"
+    },
+    {
+      "item": "fdzawacompat:raw_red_beans"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/bell_pepper"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:tarantula_bean_chili",
+    "count": 1
+  },
+  "cookingtime": 250
+}

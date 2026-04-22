@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:orchid_praying_mantis"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:orchid_praying_mantis"
+  },
+  "result": "fdzawacompat:cooked_orchid_praying_mantis",
+  "experience": 0.35,
+  "cookingtime": 200
+}

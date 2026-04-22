@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "fdzawacompat:ingredients/water_no_bucket"
+    },
+    {
+      "item": "zawa:termites"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/rice"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/carrot"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:termite_rice_soup",
+    "count": 1
+  },
+  "cookingtime": 240,
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

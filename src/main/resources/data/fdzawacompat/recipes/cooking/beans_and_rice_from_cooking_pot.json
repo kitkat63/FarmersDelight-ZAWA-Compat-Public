@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "fdzawacompat:boiled_red_beans"
+      "count":3
+    },
+    {
+      "tag": "fdzawacompat:ingredients/rice"
+      "count":1
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:beans_and_rice",
+    "count": 2
+  },
+  "cookingtime": 200
+}

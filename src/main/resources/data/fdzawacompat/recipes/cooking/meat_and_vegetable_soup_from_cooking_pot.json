@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "fdzawacompat:ingredients/large_meat"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/bell_pepper_or_carrot"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/water_no_bucket"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:meat_and_vegetable_soup",
+    "count": 1
+  },
+  "cookingtime": 320
+}

@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "zawa:termites"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/bell_pepper"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:termite_snack",
+    "count": 2
+  },
+  "cookingtime": 160
+}

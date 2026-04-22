@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:plecostomus"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:plecostomus"
+  },
+  "result": "fdzawacompat:cooked_plecostomus",
+  "experience": 0.35,
+  "cookingtime": 600
+}

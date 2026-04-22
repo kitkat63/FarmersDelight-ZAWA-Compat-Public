@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:arizona_bark_scorpion"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:arizona_bark_scorpion"
+  },
+  "result": "fdzawacompat:cooked_arizona_bark_scorpion",
+  "experience": 0.35,
+  "cookingtime": 200
+}

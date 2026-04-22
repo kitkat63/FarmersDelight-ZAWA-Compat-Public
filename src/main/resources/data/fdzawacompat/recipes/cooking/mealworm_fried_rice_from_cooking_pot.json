@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "misc",
+  "ingredients": [
+    {
+      "item": "zawa:mealworms"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/rice"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/carrot"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:mealworm_fried_rice",
+    "count": 1
+  },
+  "cookingtime": 220
+}

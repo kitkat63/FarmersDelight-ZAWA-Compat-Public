@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:mexican_red_knee_tarantula"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:mexican_red_knee_tarantula"
+  },
+  "result": "fdzawacompat:cooked_mexican_red_knee_tarantula",
+  "experience": 0.35,
+  "cookingtime": 300
+}

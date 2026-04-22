@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:angelfish"
+    }
+  ],
+  "ingredient": {
+    "item": "zawa:angelfish"
+  },
+  "result": "fdzawacompat:cooked_angelfish",
+  "experience": 0.35,
+  "cookingtime": 600
+}
