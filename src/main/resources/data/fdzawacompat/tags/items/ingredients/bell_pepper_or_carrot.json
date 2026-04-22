@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "veggiesdelight:bellpepper",
+      "required": false
+    },
+    "minecraft:carrot"
+  ]
+}

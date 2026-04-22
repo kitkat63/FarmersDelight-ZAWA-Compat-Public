@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#fdzawacompat:cooked_scorpions",
+    "#fdzawacompat:cooked_tarantulas",
+    "#fdzawacompat:cooked_praying_mantises",
+    "fdzawacompat:cooked_mealworms",
+    "fdzawacompat:cooked_termites"
+  ]
+}

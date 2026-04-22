@@ -1,0 +1,101 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "zawa:black_swallowtail",
+      "required": false
+    },
+    {
+      "id": "zawa:blue_morpho",
+      "required": false
+    },
+    {
+      "id": "zawa:cabbage_white",
+      "required": false
+    },
+    {
+      "id": "zawa:checkered_white",
+      "required": false
+    },
+    {
+      "id": "zawa:cloudless_sulphur",
+      "required": false
+    },
+    {
+      "id": "zawa:eastern_tiger_swallowtail",
+      "required": false
+    },
+    {
+      "id": "zawa:green_hairstreak",
+      "required": false
+    },
+    {
+      "id": "zawa:monarch",
+      "required": false
+    },
+    {
+      "id": "zawa:red_admiral",
+      "required": false
+    },
+    {
+      "id": "zawa:tawny_emperor",
+      "required": false
+    },
+    {
+      "id": "zawa:tawny_emporer",
+      "required": false
+    },
+    {
+      "id": "zawa:zebra_swallowtail",
+      "required": false
+    },
+    {
+      "id": "zawa:black_swallowtail_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:blue_morpho_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:cabbage_white_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:checkered_white_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:cloudless_sulphur_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:eastern_tiger_swallowtail_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:green_hairstreak_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:monarch_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:red_admiral_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:tawny_emperor_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:tawny_emporer_butterfly",
+      "required": false
+    },
+    {
+      "id": "zawa:zebra_swallowtail_butterfly",
+      "required": false
+    }
+  ]
+}

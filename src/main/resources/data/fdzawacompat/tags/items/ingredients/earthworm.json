@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "zawa:earth_worm",
+      "required": false
+    },
+    {
+      "id": "zawa:earthworm",
+      "required": false
+    }
+  ]
+}

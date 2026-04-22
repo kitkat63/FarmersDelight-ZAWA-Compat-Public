@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "zawa:cooked_brown_rat",
+      "required": false
+    },
+    {
+      "id": "zawa:cooked_mussels",
+      "required": false
+    },
+    {
+      "id": "zawa:cooked_clam",
+      "required": false
+    },
+    {
+      "id": "zawa:cooked_clams",
+      "required": false
+    },
+    {
+      "id": "zawa:cooked_shrimp",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_clam_meat",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_shrimp",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_mussel",
+      "required": false
+    },
+    {
+      "id": "crabbersdelight:cooked_mussels",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:cooked_african_lake_cichlid",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:cooked_angelfish",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:cooked_betta",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:cooked_clownfish",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:cooked_corydoras",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:cooked_gramma",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:cooked_plecostomus",
+      "required": false
+    }
+  ]
+}
