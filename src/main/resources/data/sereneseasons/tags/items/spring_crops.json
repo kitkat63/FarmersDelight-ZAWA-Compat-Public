@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "zawa:legume",
+      "required": false
+    },
+    {
+      "id": "fdzawacompat:raw_red_beans",
+      "required": false
+    }
+  ]
+}
