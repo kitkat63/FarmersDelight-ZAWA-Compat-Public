@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fdzawacompat:item/tarantula_bean_chili"
+  }
+}

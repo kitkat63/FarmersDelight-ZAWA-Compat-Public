@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fdzawacompat:item/sea_bunny_head"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "thirdperson_lefthand": {
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "firstperson_righthand": {
+      "scale": [0.65, 0.65, 0.65]
+    },
+    "firstperson_lefthand": {
+      "scale": [0.65, 0.65, 0.65]
+    }
+  }
+}

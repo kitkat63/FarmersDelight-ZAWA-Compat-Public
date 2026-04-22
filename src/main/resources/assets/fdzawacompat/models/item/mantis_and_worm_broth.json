@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fdzawacompat:item/mantis_and_worm_broth"
+  }
+}

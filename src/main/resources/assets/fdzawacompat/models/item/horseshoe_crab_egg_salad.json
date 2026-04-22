@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fdzawacompat:item/horseshoe_crab_egg_salad"
+  }
+}
