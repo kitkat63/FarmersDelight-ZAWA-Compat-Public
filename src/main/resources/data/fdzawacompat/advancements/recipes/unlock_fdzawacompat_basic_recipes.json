@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "on_tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "fdzawacompat:cooking/boiled_red_beans_from_cooking_pot",
+      "fdzawacompat:cooking/beans_and_rice_from_cooking_pot",
+      "fdzawacompat:cooking/refried_beans_from_cooking_pot",
+      "fdzawacompat:crafting/horseshoe_crab_roe_from_horseshoe_crab",
+      "fdzawacompat:cooking/horseshoe_crab_egg_salad_from_cooking_pot",
+      "fdzawacompat:cooking/meat_and_vegetable_soup_from_cooking_pot"
+    ]
+  }
+}

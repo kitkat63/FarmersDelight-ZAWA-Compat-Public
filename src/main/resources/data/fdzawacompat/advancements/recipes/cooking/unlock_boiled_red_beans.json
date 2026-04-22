@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "on_tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "fdzawacompat:cooking/boiled_red_beans_from_cooking_pot"
+    ]
+  }
+}

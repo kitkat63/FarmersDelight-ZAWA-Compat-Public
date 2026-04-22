@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "on_tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "fdzawacompat:cooking/meat_and_vegetable_soup_from_cooking_pot"
+    ]
+  }
+}

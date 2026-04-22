@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "on_tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "fdzawacompat:cooking/refried_beans_from_cooking_pot"
+    ]
+  }
+}

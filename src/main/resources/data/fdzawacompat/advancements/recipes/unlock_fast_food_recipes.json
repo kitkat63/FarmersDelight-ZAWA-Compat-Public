@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cooked_bug": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "fdzawacompat:fast_food_advancement_items"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "fdzawacompat:cooking/mealworm_fried_rice_from_cooking_pot",
+      "fdzawacompat:cooking/meat_and_vegetable_soup_from_cooking_pot",
+      "fdzawacompat:cooking/buggers_feast_from_cooking_pot",
+      "fdzawacompat:cooking/mantis_and_worm_broth_from_cooking_pot",
+      "fdzawacompat:cooking/tarantula_bean_chili_from_cooking_pot",
+      "fdzawacompat:cooking/termite_rice_soup_from_cooking_pot",
+      "fdzawacompat:cooking/termite_snack_from_cooking_pot",
+      "fdzawacompat:crafting/chocolate_covered_scorpion",
+      "fdzawacompat:crafting/chocolate_covered_tarantula",
+      "fdzawacompat:crafting/insect_protein_wrap",
+      "fdzawacompat:crafting/mealworm_cookie",
+      "fdzawacompat:crafting/termite_snack",
+      "fdzawacompat:crafting/worm_protein_patty",
+      "fdzawacompat:cooking/escargot_from_cooking_pot",
+      "fdzawacompat:cooking/horseshoe_crab_egg_salad_from_cooking_pot"
+    ]
+  }
+}
