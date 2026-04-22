@@ -1,0 +1,87 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#fdzawacompat:cooked_tarantulas",
+      "required": false
+    },
+    {
+      "id": "#fdzawacompat:cooked_scorpions",
+      "required": false
+    },
+    {
+      "id": "#fdzawacompat:cooked_praying_mantises",
+      "required": false
+    },
+    "fdzawacompat:cooked_mealworms",
+    "fdzawacompat:cooked_termites",
+    {
+      "id": "#fdzawacompat:seafood_proteins",
+      "required": false
+    },
+    "fdzawacompat:worm_protein_patty",
+    "fdzawacompat:mantis_and_worm_broth",
+    "fdzawacompat:tarantula_bean_chili",
+    "fdzawacompat:insect_protein_wrap",
+    "fdzawacompat:buggers_feast",
+    {
+      "id": "#fdzawacompat:butterflies",
+      "required": false
+    },
+    {
+      "id": "zawa:black_swallowtail",
+      "required": false
+    },
+    {
+      "id": "zawa:blue_morpho",
+      "required": false
+    },
+    {
+      "id": "zawa:cabbage_white",
+      "required": false
+    },
+    {
+      "id": "zawa:checkered_white",
+      "required": false
+    },
+    {
+      "id": "zawa:cloudless_sulphur",
+      "required": false
+    },
+    {
+      "id": "zawa:eastern_tiger_swallowtail",
+      "required": false
+    },
+    {
+      "id": "zawa:green_hairstreak",
+      "required": false
+    },
+    {
+      "id": "zawa:monarch",
+      "required": false
+    },
+    {
+      "id": "zawa:red_admiral",
+      "required": false
+    },
+    {
+      "id": "zawa:tawny_emperor",
+      "required": false
+    },
+    {
+      "id": "zawa:tawny_emporer",
+      "required": false
+    },
+    {
+      "id": "zawa:zebra_swallowtail",
+      "required": false
+    },
+    {
+      "id": "zawa:earth_worm",
+      "required": false
+    },
+    "fdzawacompat:refried_beans",
+    "fdzawacompat:horseshoe_crab_egg_salad",
+    "fdzawacompat:escargot"
+  ]
+}

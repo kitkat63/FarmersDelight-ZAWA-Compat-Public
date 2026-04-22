@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "zawa:bald_eagle_egg",
+      "required": false
+    },
+    {
+      "id": "zawa:emperor_penguin_egg",
+      "required": false
+    },
+    {
+      "id": "zawa:flamingo_egg",
+      "required": false
+    },
+    {
+      "id": "zawa:hornbill_egg",
+      "required": false
+    },
+     {
+      "id": "biologicalwonders:alligator_gar_egg",
+      "required": false
+    },
+     {
+      "id": "biologicalwonders:kingfisher_egg",
+      "required": false
+    },
+    {
+      "id": "zawa:indian_gharial_egg",
+      "required": false
+    }
+  ]
+}
