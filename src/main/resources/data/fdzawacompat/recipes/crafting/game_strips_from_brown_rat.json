@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:brown_rat"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:game_strips"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "item": "zawa:brown_rat"
+    }
+  ],
+  "result": {
+    "item": "dragnlivestock:game_strips",
+    "count": 1
+  }
+}

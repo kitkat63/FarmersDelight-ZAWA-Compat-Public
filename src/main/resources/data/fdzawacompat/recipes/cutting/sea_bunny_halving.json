@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "biologicalwonders:sea_bunny"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "fdzawacompat:sea_bunny_head",
+      "count": 1
+    },
+    {
+      "item": "fdzawacompat:sea_bunny_butt",
+      "count": 1
+    }
+  ],
+  "sound": "farmersdelight:block.cutting_board.knife"
+}

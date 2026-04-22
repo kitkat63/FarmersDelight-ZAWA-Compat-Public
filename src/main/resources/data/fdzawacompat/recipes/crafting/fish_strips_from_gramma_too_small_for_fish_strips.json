@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:gramma"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:utility_knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "item": "zawa:gramma"
+    }
+  ],
+  "result": {
+    "item": "zawa:gramma",
+    "count": 1
+  }
+}

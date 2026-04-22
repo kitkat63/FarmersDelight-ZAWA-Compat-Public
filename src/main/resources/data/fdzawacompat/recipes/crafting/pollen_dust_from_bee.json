@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zawa:honey_bee"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:pollen_dust",
+    "count": 1
+  }
+}

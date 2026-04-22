@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "biologicalwonders:triggerfish"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:fish_strips"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "item": "biologicalwonders:triggerfish"
+    }
+  ],
+  "result": {
+    "item": "dragnlivestock:fish_strips",
+    "count": 2
+  }
+}

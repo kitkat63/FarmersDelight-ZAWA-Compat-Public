@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:plecostomus"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:fish_strips"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "item": "zawa:plecostomus"
+    }
+  ],
+  "result": {
+    "item": "dragnlivestock:fish_strips",
+    "count": 1
+  }
+}

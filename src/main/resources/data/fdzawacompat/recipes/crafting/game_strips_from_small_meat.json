@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:small_meat"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "dragnlivestock:game_strips"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "dragnlivestock:utility_knife"
+    },
+    {
+      "item": "zawa:small_meat"
+    }
+  ],
+  "result": {
+    "item": "dragnlivestock:game_strips",
+    "count": 1
+  }
+}

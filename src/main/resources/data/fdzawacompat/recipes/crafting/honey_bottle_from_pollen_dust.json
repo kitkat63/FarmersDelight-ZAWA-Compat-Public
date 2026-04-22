@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:honey_bottle",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "fdzawacompat:ingredients/earthworm"
+    },
+    {
+      "item": "zawa:mealworms"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:worm_protein_patty",
+    "count": 1
+  }
+}

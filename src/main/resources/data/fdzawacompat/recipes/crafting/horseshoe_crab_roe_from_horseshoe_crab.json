@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "biologicalwonders:horseshoe_crab"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:horseshoe_crab_roe",
+    "count": 1
+  }
+}

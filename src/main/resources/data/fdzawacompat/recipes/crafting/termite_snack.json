@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fdzawacompat:cooked_termites"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/bell_pepper"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:termite_snack",
+    "count": 2
+  }
+}

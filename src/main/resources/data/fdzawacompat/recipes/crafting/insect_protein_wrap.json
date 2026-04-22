@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "fdzawacompat:worm_protein_patty"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "fdzawacompat:worm_protein_patty"
+    },
+    {
+      "tag": "fdzawacompat:butterflies"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "fdzawacompat:ingredients/onion"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:insect_protein_wrap",
+    "count": 1
+  }
+}

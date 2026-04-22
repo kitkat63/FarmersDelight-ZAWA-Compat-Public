@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "tag": "fdzawacompat:cooked_praying_mantises"
+    },
+    {
+      "item": "fdzawacompat:pollen_dust"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "fdzawacompat:candied_mantis",
+    "count": 1
+  }
+}

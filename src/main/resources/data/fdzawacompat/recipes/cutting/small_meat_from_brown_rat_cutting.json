@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cutting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:brown_rat"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:small_meat"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "zawa:brown_rat"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "zawa:small_meat",
+      "count": 1
+    }
+  ],
+  "sound": "farmersdelight:block.cutting_board.knife"
+}

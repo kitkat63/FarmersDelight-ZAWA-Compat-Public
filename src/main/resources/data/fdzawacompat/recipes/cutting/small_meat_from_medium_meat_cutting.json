@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cutting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:medium_meat"
+    },
+    {
+      "type": "forge:item_exists",
+      "item": "zawa:small_meat"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "zawa:medium_meat"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "zawa:small_meat",
+      "count": 2
+    }
+  ],
+  "sound": "farmersdelight:block.cutting_board.knife"
+}
