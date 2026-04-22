@@ -16,7 +16,9 @@ Create a Forge 1.20.1 compatibility bridge that adds edible/cookable ZAWA bug co
 - **Optional soft compat:**
   - Diet (`diet`)
   - Biological Wonders  (`biologicalwonders`)
+  - Delightful  (`delightful`)
+  - DragN's Livestock Overhaul  (`dragnlivestock`)
+  - Serene Seasons  (`sereneseasons`)
 
-These rules are enforced in `mods.toml`.
 
 
