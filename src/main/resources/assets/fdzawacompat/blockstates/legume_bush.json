@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "age=0": { "model": "fdzawacompat:block/legume_stage0" },
+    "age=1": { "model": "fdzawacompat:block/legume_stage2" },
+    "age=2": { "model": "fdzawacompat:block/legume_stage2" },
+    "age=3": { "model": "fdzawacompat:block/legume_stage3" }
+  }
+}
